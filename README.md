@@ -1,8 +1,9 @@
 # Scaling Training Data with Lossy Image Compression 
-*Katherine L. Mentzer and Andrea Montanari*
+*Katherine L. Mentzer and Andrea Montanari*  
 
-Accepted to KDD '24
+Accepted to KDD '24  
 
+[arXiv Preprint](https://arxiv.org/abs/2407.17954)  
 [Promo Video](https://www.youtube.com/watch?v=lnfAwDadx-8)
 
 ## Summary 
